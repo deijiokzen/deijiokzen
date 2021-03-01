@@ -4,7 +4,7 @@
 </em></p>
 
 
-### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
+### <img src="https://64.media.tumblr.com/439d782f17f4c5469bd72237efacc758/e7a713f1062a5fd4-8a/s500x750/5ac2bf13f8d8852d0a9beede1b96500667dea6ed.gif" width="150"> A little more about me...  
 
 ```javascript
 const DeijiOkzen = {
@@ -23,7 +23,7 @@ const DeijiOkzen = {
 }
 ```
 
-<img src="https://media.discordapp.net/attachments/744661029669044326/748914551755636849/unknown-160.png" width="60"> <em><b>I love connecting with different people across different ethnicities and cultures</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
+<img src="https://media.discordapp.net/attachments/744661029669044326/748914551755636849/unknown-160.png" width="250"> <em><b>I love connecting with different people across different ethnicities and cultures</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
 
 ---
 
