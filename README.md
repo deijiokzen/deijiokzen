@@ -1,13 +1,3 @@
--->
----
-Saud Ahmed Abbasi
-spoiler: Code Styled Readme Template
-categories: ["code-styled", "all-profile"]
-githubUsername: 'deijiokzen'
----
-
-
-
 ### Hi there 👋
 
 <h2> I'm DeijiOkzen (Saud Ahmed Abbasi)! <img src="https://cdn.discordapp.com/attachments/723619898206716015/813789567457951764/ezgif-1-7213593a17e6.gif" width="60"></h2>
@@ -39,7 +29,7 @@ const ashifZafar = {
 
 ---
 
- <img src="https://user-images.githubusercontent.com/20770645/90959204-22aafa00-e4b7-11ea-94d3-0139a8b1fd97.jpg" width="230">
+ <img src="https://media.discordapp.net/attachments/744661029669044326/801348708545462302/unknown.png" width="230">
  
  ---
  ⭐️ From [@deijiokzen](https://github.com/deijiokzen)
