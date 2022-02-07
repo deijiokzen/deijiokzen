@@ -4,7 +4,7 @@
 </em></p>
 
 
-### <img src="https://64.media.tumblr.com/439d782f17f4c5469bd72237efacc758/e7a713f1062a5fd4-8a/s500x750/5ac2bf13f8d8852d0a9beede1b96500667dea6ed.gif" width="150"> A little more about me...  
+###A little more about me...  
 
 ```javascript
 const DeijiOkzen = {
