@@ -23,11 +23,5 @@ const DeijiOkzen = {
 }
 ```
 
-<img src="https://media.discordapp.net/attachments/744661029669044326/748914551755636849/unknown-160.png" width="250"> <em><b>I love connecting with different people across different ethnicities and cultures</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
 
----
-
- <img src="https://media.discordapp.net/attachments/744661029669044326/801348708545462302/unknown.png" width="230">
- 
- ---
  ⭐️ From [@deijiokzen](https://github.com/deijiokzen)
