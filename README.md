@@ -1,5 +1,5 @@
 
-# DeijiOkzen (Saud Ahmed Abbasi) 👋
+# Saud Ahmed Abbasi 👋
 
 ### About Me 🚀  
 My passion lies both in **AI** and **Game Development**, and I strive to find ways for these two worlds to meet. I have worked professionally as an **AI Solutions Engineer**, where I was required to be flexible, adaptive, and resourceful in addressing unique use-cases. I've worked with up-and-coming services released by **Microsoft** and am always up-to-date with **AI Cloud Services** to enable cost-effective, robust solutions for enterprises.
