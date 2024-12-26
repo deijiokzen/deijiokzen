@@ -54,14 +54,8 @@ In my free time, my creativity is explored through **Game Development**, where I
 
 ---
 
-### Contact & Links 📧  
-- [GitHub](https://github.com/deijiokzen)  
-- [LinkedIn](https://www.linkedin.com/in/saud-ahmed-abbasi)  
-- [Portfolio](https://deijiokzen.github.io/Saud-Ahmed-Abbasi-Resume/)
-
 ---
 
 ⭐ **Feel free to reach out or check out my work!**
 
-"""
 
