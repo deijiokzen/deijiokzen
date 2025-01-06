@@ -53,11 +53,11 @@ In my free time, my creativity is explored through **Game Development**, where I
 - My ambition is to revolutionize Pakistan's gaming market, one project at a time.
 
 ---
-### Visit My Basic AI Website
+### Document Intelligence AI
 
 Explore my AI-powered document reader application that allows you to upload files, analyze their content, and interact with the data through a conversational interface.
 
-[Visit My Basic AI Website](https://ai-document-reader.streamlit.app/)
+[AI Document Intelligence Basic Demo](https://ai-document-reader.streamlit.app/)
 ---
 
 ⭐ **Feel free to reach out or check out my work!**
