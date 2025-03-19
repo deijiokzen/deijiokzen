@@ -7,43 +7,22 @@ My passion lies both in **AI** and **Game Development**, and I strive to find wa
 In my free time, my creativity is explored through **Game Development**, where I've developed a non-Euclidean game inspired by **Portal 2** for my Final Year Project. My ultimate goal is to revolutionize the gaming market in **Pakistan**, and this is just a part of my long journey.
 
 ---
+## Skills & Technologies 🛠️
 
-### Work Experience 💼  
+- **Languages**: Proficient in JavaScript, Python, C++, C#, and SQL.
+- **AI/ML**: Extensive experience with Azure OpenAI, Langchain, TensorFlow, YOLOv8, SVM, Random Forest, and XGBoost. Skilled in developing AI-driven solutions for healthcare, HR, and classification challenges.
+- **Cloud Services**: Expertise in Microsoft Azure, including Azure Functions, Dataverse, PowerApps, and Azure Marketplace. Developed and integrated custom tools linking AI models to Dataverse for seamless data workflows.
+- **Web Development**: Proficient in React, Node.js, Python Flask, and Streamlit. Built interactive AI demos and dashboards for real-time AI model inference and NLP applications.
+- **DevOps & CI/CD**: Skilled in Docker, Azure Container Registry (ACR), and CICD pipelines. Developed robust pipelines for Azure-hosted web solutions.
+- **Data & Analytics**: Experienced in PySpark, Google Analytics 4, and API integrations. Implemented Retrieval-Augmented Generation (RAG) techniques to enhance GPT responses using enterprise data.
 
-#### June 2023 - Present  
-**AI Solutions Software Engineer** | Imperium Dynamics  
-- Developed and integrated custom tools linking **AI models** to **Dataverse** for seamless data workflows.
-- Engineered AI-driven solutions using **Azure OpenAI** and **Langchain**, addressing challenges in **healthcare**, **HR**, and **classification**.
-- Implemented **Retrieval-Augmented Generation (RAG)** techniques to enhance GPT responses using enterprise data.
-- Configured interactive web demos with **Python Flask** and **Streamlit** to showcase AI services.
-- Migrated **Microsoft PowerApps** projects and resolved dependencies for robust ecosystem integration.
-- Automated export of **Dataverse** data into **InDesign templates** for use in Model-Driven Apps.
-- Worked on machine learning models in **Azure ML Studio** (SVM, Random Forest, XGBoost) for quality and compliance.
-- Developed **CICD** pipelines for **Azure-hosted** web solutions using **Docker** and **Azure Container Registry** (ACR).
-- Contributed to **Azure Marketplace**, listing tiered offers and creating marketing landing pages.
-- Configured **FinOps** and **Dual-Write** to synchronize records between **F&O** and **Dataverse**.
-- Developed **Microsoft Copilot Studio** chatbots, enabling Dataverse data retrieval with **Azure Functions**.
-- Utilized **Microsoft Fabric pipelines** to orchestrate **scheduled data migration workflows** with **PySpark**.
-- Streamlined API workflows for **GTM** management using **Google APIs** and designed reusable code structures for scalability.
+## Projects & Contributions 🚀
 
-#### Jan. 2023  
-**Software Engineering Intern** | Imperium Dynamics  
-- Developed **PowerApps** model-driven and canvas apps.
-- Identified process pain points and used problem-solving skills to troubleshoot challenges.
-- Installed and configured **data gateways**, developed **Azure Logic Apps** and functions.
-- Integrated analytics and automation within Microsoft services.
-
----
-
-### Skills & Technologies 🛠️  
-
-- **Languages**: JavaScript, Python, C++, C#, SQL  
-- **AI/ML**: Azure OpenAI, Langchain, SVM, Random Forest, XGBoost, Azure ML Studio  
-- **Game Development**: Non-Euclidean Game Design, Unity  
-- **Cloud Services**: Microsoft Azure (Azure Functions, Dataverse, PowerApps, Azure Marketplace, etc.)  
-- **Web Development**: React, Node.js, Python Flask, Streamlit  
-- **DevOps & CI/CD**: Docker, Azure Container Registry (ACR), CICD pipelines  
-- **Data & Analytics**: PySpark, Google Analytics 4, GA4, API integrations
+- Developed AI-powered customer support chatbots integrated with Microsoft Omnichannel, contributing to Azure Marketplace.
+- Engineered AI-driven solutions utilizing TensorFlow and YOLOv8 for real-time object detection in dynamic environments.
+- Led projects in natural language processing (NLP) and deep learning applications to advance model accuracy and increase throughput in production pipelines.
+- Spearheaded the deployment of AI pipelines using TensorFlow Serving for scalable model deployment in cloud environments.
+- Collaborated on advanced ML/AI research projects, focusing on transformers and unsupervised learning techniques to drive innovations in predictive analytics.
 
 ---
 
