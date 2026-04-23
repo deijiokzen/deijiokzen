@@ -1,44 +1,51 @@
+# Saud Ahmed Abbasi
 
-# Saud Ahmed Abbasi 👋
+I work at the intersection of AI and game development — not because it sounds interesting in a bio, but because I genuinely can't stop thinking about what they can do together.
 
-### About Me 🚀  
-My passion lies both in **AI** and **Game Development**, and I strive to find ways for these two worlds to meet. I have worked professionally as an **AI Solutions Engineer**, where I was required to be flexible, adaptive, and resourceful in addressing unique use-cases. I've worked with up-and-coming services released by **Microsoft** and am always up-to-date with **AI Cloud Services** to enable cost-effective, robust solutions for enterprises.
+Professionally, I've been an AI Solutions Engineer, which mostly means getting thrown at weird problems and figuring it out. I've worked with early-release Microsoft services, Azure's AI ecosystem, and built pipelines that probably should've been simpler but weren't. I like the constraint of enterprise work — making something actually robust instead of just impressive in a demo.
 
-In my free time, my creativity is explored through **Game Development**, where I've developed a non-Euclidean game inspired by **Portal 2** for my Final Year Project. My ultimate goal is to revolutionize the gaming market in **Pakistan**, and this is just a part of my long journey.
-
----
-## Skills & Technologies 🛠️
-
-- **Languages**: Proficient in JavaScript, Python, C++, C#, and SQL.
-- **AI/ML**: Extensive experience with Azure OpenAI, Langchain, TensorFlow, YOLOv8, SVM, Random Forest, and XGBoost. Skilled in developing AI-driven solutions for healthcare, HR, and classification challenges.
-- **Cloud Services**: Expertise in Microsoft Azure, including Azure Functions, Dataverse, PowerApps, and Azure Marketplace. Developed and integrated custom tools linking AI models to Dataverse for seamless data workflows.
-- **Web Development**: Proficient in React, Node.js, Python Flask, and Streamlit. Built interactive AI demos and dashboards for real-time AI model inference and NLP applications.
-- **DevOps & CI/CD**: Skilled in Docker, Azure Container Registry (ACR), and CICD pipelines. Developed robust pipelines for Azure-hosted web solutions.
-- **Data & Analytics**: Experienced in PySpark, Google Analytics 4, and API integrations. Implemented Retrieval-Augmented Generation (RAG) techniques to enhance GPT responses using enterprise data.
-
-## Projects & Contributions 🚀
-
-- Developed AI-powered customer support chatbots integrated with Microsoft Omnichannel, contributing to Azure Marketplace.
-- Engineered AI-driven solutions utilizing TensorFlow and YOLOv8 for real-time object detection in dynamic environments.
-- Led projects in natural language processing (NLP) and deep learning applications to advance model accuracy and increase throughput in production pipelines.
-- Spearheaded the deployment of AI pipelines using TensorFlow Serving for scalable model deployment in cloud environments.
-- Collaborated on advanced ML/AI research projects, focusing on transformers and unsupervised learning techniques to drive innovations in predictive analytics.
+Outside of that, I make games. My final year project was a non-Euclidean game in the vein of Portal 2 — the kind of thing that's fun to explain and even more fun to break. Long-term, I want to change what the games industry looks like in Pakistan. That's a big goal. I'm working on it.
 
 ---
 
-### Fun Facts 🎮🎨  
-- I'm constantly exploring ways AI and game development can merge to create unique experiences.
-- I'm passionate about **creating innovative, scalable, and efficient systems** to enhance enterprise capabilities.
-- My ambition is to revolutionize Pakistan's gaming market, one project at a time.
+## Skills & Technologies
+
+**Languages:** JavaScript, Python, C++, C#, SQL
+
+**AI/ML:** Azure OpenAI, Langchain, TensorFlow, YOLOv8, SVM, Random Forest, XGBoost. Most of my hands-on work has been in healthcare, HR, and classification problems.
+
+**Cloud:** Microsoft Azure — Functions, Dataverse, PowerApps, Azure Marketplace. I've built custom tools that connect AI models to Dataverse for data workflows that don't require manual glue.
+
+**Web:** React, Node.js, Flask, Streamlit. Mostly dashboards and AI demos where someone needs to actually see what a model is doing in real time.
+
+**DevOps:** Docker, Azure Container Registry, CI/CD pipelines. I've deployed enough Azure-hosted services to have opinions about container registries.
+
+**Data:** PySpark, Google Analytics 4, API integrations. Also done RAG implementations to ground GPT responses in enterprise data rather than guesswork.
 
 ---
+
+## Projects
+
+- Built AI customer support chatbots integrated with Microsoft Omnichannel, shipped to Azure Marketplace
+- Built object detection pipelines with TensorFlow and YOLOv8 for real-time use in dynamic environments
+- Worked on NLP and deep learning projects focused on throughput in production, not just benchmark accuracy
+- Set up TensorFlow Serving deployments for scalable cloud model hosting
+- Did ML research work on transformers and unsupervised learning, with a focus on predictive applications
+
+---
+
+## Fun Facts
+
+I build non-Euclidean games in my spare time, which means I spend a lot of weekends confusing myself on purpose.
+
+---
+
 ### Document Intelligence AI
 
-Explore my AI-powered document reader application that allows you to upload files, analyze their content, and interact with the data through a conversational interface.
+An app I built that lets you upload files, ask questions about them, and actually get useful answers back.
 
 [AI Document Intelligence Basic Demo](https://ai-document-reader.streamlit.app/)
+
 ---
 
-⭐ **Feel free to reach out or check out my work!**
-
-
+Feel free to reach out or poke around my work.
