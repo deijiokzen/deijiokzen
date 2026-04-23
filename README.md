@@ -8,20 +8,37 @@ Outside of that, I make games. My final year project was a non-Euclidean game in
 
 ---
 
-## Skills & Technologies
+## What I work with
 
-**Languages:** JavaScript, Python, C++, C#, SQL
+**Languages**  
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-178600?style=flat&logo=csharp&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
 
-**AI/ML:** Azure OpenAI, Langchain, TensorFlow, YOLOv8, SVM, Random Forest, XGBoost. Most of my hands-on work has been in healthcare, HR, and classification problems.
+**AI / ML**  
+![Azure OpenAI](https://img.shields.io/badge/Azure_OpenAI-0078D4?style=flat&logo=microsoftazure&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C5B?style=flat&logo=chainlink&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
+![YOLOv8](https://img.shields.io/badge/YOLOv8-111111?style=flat&logo=yolo&logoColor=00BFFF)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikitlearn&logoColor=white)
+![XGBoost](https://img.shields.io/badge/XGBoost-189FDA?style=flat&logo=xgboost&logoColor=white)
 
-**Cloud:** Microsoft Azure — Functions, Dataverse, PowerApps, Azure Marketplace. I've built custom tools that connect AI models to Dataverse for data workflows that don't require manual glue.
+**Cloud**  
+![Azure](https://img.shields.io/badge/Microsoft_Azure-0078D4?style=flat&logo=microsoftazure&logoColor=white)
+![PowerApps](https://img.shields.io/badge/Power_Apps-742774?style=flat&logo=powerapps&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 
-**Web:** React, Node.js, Flask, Streamlit. Mostly dashboards and AI demos where someone needs to actually see what a model is doing in real time.
+**Web**  
+![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white)
 
-**DevOps:** Docker, Azure Container Registry, CI/CD pipelines. I've deployed enough Azure-hosted services to have opinions about container registries.
-
-**Data:** PySpark, Google Analytics 4, API integrations. Also done RAG implementations to ground GPT responses in enterprise data rather than guesswork.
-
+**Data**  
+![PySpark](https://img.shields.io/badge/PySpark-E25A1C?style=flat&logo=apachespark&logoColor=white)
+![Google Analytics](https://img.shields.io/badge/Google_Analytics_4-E37400?style=flat&logo=googleanalytics&logoColor=white)
 ---
 
 ## Projects
